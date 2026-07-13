@@ -35,6 +35,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/AKA-Vishuu/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AKA-Vishuu/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/AKA-Vishuu/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AKA-Vishuu/leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/AKA-Vishuu/leetcode/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/AKA-Vishuu/leetcode/tree/master/0796-rotate-string) |
@@ -60,4 +61,12 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/AKA-Vishuu/leetcode/tree/master/0796-rotate-string) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/AKA-Vishuu/leetcode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/AKA-Vishuu/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
