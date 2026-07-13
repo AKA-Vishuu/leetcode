@@ -5,25 +5,19 @@ public:
         
         reverse(s.begin(), s.end());
 
-        string word="";
         string ans="";
         for(int i=0; i<n; i++){
-            if(s[i]!=' '){
+            string word = "";
+            while(i<n && s[i]!=' '){
                 word+=s[i];
+                i++;
             }
-            else{
-                if(word.length()>0 && i<n){
-                    reverse(word.begin(), word.end());
-                    ans =ans + " " + word;
-                    word="";
-                }
-            }
-        }
-        if(word.length()>0){
+
             reverse(word.begin(), word.end());
-            ans = ans + " " + word;
+            if(word.length()>0){
+                ans += " " + word;
+            }
         }
-        
         return ans.substr(1);
     }
 };
