@@ -10,14 +10,16 @@ public:
         
         for(int i=0; i<n; i++){
             if(s[i]=='('){
+                if(count>0){
+                    str+=s[i];
+                }
                 count++;
             }
             else{
                 count--;
-            }
-            if(count==0){
-                str += s.substr(idx+1, i-idx-1);
-                idx=i+1;
+                if(count>0){
+                    str+=s[i];
+                }
             }
         }
         return str;
