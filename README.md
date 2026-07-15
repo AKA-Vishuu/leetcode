@@ -64,6 +64,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/AKA-Vishuu/leetcode/tree/master/0013-roman-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/AKA-Vishuu/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AKA-Vishuu/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
 |  |
 | ------- |
@@ -86,4 +87,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AKA-Vishuu/leetcode/tree/master/0014-longest-common-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/AKA-Vishuu/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
