@@ -10,17 +10,17 @@ public:
             if(nums[i]>maxi){
                 maxi=nums[i];
             }
-            vec.push_back(__gcd(nums[i], maxi));
+            nums[i]=__gcd(nums[i], maxi);
         }
 
-        sort(vec.begin(), vec.end());
+        sort(nums.begin(), nums.end());
 
         int i=0;
-        int j=vec.size()-1;
+        int j=n-1;
 
         long long int ans=0;
         while(i<j){
-            ans += __gcd(vec[i], vec[j]);
+            ans += __gcd(nums[i], nums[j]);
             i++;
             j--;
         }
