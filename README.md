@@ -11,6 +11,7 @@
 | [0137-single-number-ii](https://github.com/AKA-Vishuu/leetcode/tree/master/0137-single-number-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AKA-Vishuu/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/AKA-Vishuu/leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AKA-Vishuu/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/AKA-Vishuu/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/AKA-Vishuu/leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/AKA-Vishuu/leetcode/tree/master/0443-string-compression) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AKA-Vishuu/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -62,6 +64,7 @@
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AKA-Vishuu/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AKA-Vishuu/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +72,7 @@
 | [0231-power-of-two](https://github.com/AKA-Vishuu/leetcode/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/AKA-Vishuu/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AKA-Vishuu/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AKA-Vishuu/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -87,6 +91,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AKA-Vishuu/leetcode/tree/master/0242-valid-anagram) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AKA-Vishuu/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -95,6 +100,7 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AKA-Vishuu/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AKA-Vishuu/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
