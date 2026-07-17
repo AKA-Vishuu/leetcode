@@ -9,6 +9,7 @@
 | [0078-subsets](https://github.com/AKA-Vishuu/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AKA-Vishuu/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AKA-Vishuu/leetcode/tree/master/0137-single-number-ii) |
+| [0204-count-primes](https://github.com/AKA-Vishuu/leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AKA-Vishuu/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/AKA-Vishuu/leetcode/tree/master/0260-single-number-iii) |
 | [1901-find-a-peak-element-ii](https://github.com/AKA-Vishuu/leetcode/tree/master/1901-find-a-peak-element-ii) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/AKA-Vishuu/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/AKA-Vishuu/leetcode/tree/master/0029-divide-two-integers) |
+| [0204-count-primes](https://github.com/AKA-Vishuu/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AKA-Vishuu/leetcode/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/AKA-Vishuu/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AKA-Vishuu/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -101,6 +103,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/AKA-Vishuu/leetcode/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AKA-Vishuu/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AKA-Vishuu/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -121,4 +124,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AKA-Vishuu/leetcode/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AKA-Vishuu/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
