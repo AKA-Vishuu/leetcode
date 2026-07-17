@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AKA-Vishuu/leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/AKA-Vishuu/leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/AKA-Vishuu/leetcode/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/AKA-Vishuu/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AKA-Vishuu/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -105,6 +106,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AKA-Vishuu/leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/AKA-Vishuu/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/AKA-Vishuu/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AKA-Vishuu/leetcode/tree/master/0137-single-number-ii) |
