@@ -13,6 +13,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/AKA-Vishuu/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/AKA-Vishuu/leetcode/tree/master/0260-single-number-iii) |
 | [1901-find-a-peak-element-ii](https://github.com/AKA-Vishuu/leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AKA-Vishuu/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AKA-Vishuu/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AKA-Vishuu/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -78,6 +79,7 @@
 | [0204-count-primes](https://github.com/AKA-Vishuu/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AKA-Vishuu/leetcode/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/AKA-Vishuu/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AKA-Vishuu/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AKA-Vishuu/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AKA-Vishuu/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AKA-Vishuu/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AKA-Vishuu/leetcode/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AKA-Vishuu/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AKA-Vishuu/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AKA-Vishuu/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AKA-Vishuu/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
