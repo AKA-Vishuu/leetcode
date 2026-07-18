@@ -74,6 +74,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/AKA-Vishuu/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/AKA-Vishuu/leetcode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/AKA-Vishuu/leetcode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/AKA-Vishuu/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AKA-Vishuu/leetcode/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/AKA-Vishuu/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -124,6 +125,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/AKA-Vishuu/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AKA-Vishuu/leetcode/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
