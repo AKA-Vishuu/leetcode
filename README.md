@@ -60,6 +60,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AKA-Vishuu/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/AKA-Vishuu/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AKA-Vishuu/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/AKA-Vishuu/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AKA-Vishuu/leetcode/tree/master/0204-count-primes) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/AKA-Vishuu/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Combinatorics
 |  |
 | ------- |
