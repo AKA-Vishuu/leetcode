@@ -12,6 +12,7 @@
 | [0204-count-primes](https://github.com/AKA-Vishuu/leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AKA-Vishuu/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/AKA-Vishuu/leetcode/tree/master/0260-single-number-iii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AKA-Vishuu/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1901-find-a-peak-element-ii](https://github.com/AKA-Vishuu/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AKA-Vishuu/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AKA-Vishuu/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -85,6 +86,7 @@
 | [0050-powx-n](https://github.com/AKA-Vishuu/leetcode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/AKA-Vishuu/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AKA-Vishuu/leetcode/tree/master/0231-power-of-two) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AKA-Vishuu/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/AKA-Vishuu/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AKA-Vishuu/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AKA-Vishuu/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -114,6 +116,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AKA-Vishuu/leetcode/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AKA-Vishuu/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/AKA-Vishuu/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AKA-Vishuu/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Trie
