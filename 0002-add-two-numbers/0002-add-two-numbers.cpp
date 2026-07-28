@@ -12,19 +12,21 @@ class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
 
-        vector<int> vec;
+        ListNode* head = new ListNode(-1);
+        ListNode* current = head;
 
         int carry = 0;
 
         while(l1!=NULL && l2!=NULL){
             int sum = ((l1->val) + (l2->val) + carry);
             if(sum > 9){
-
-                vec.push_back(sum % 10);
+                current->next = new ListNode(sum % 10);
+                current = current->next;
                 carry = 1;
             }
             else{
-                vec.push_back(sum % 10);
+                current->next = new ListNode(sum % 10);
+                current = current->next;
                 carry=0;
             }
             l1 = l1->next;
@@ -34,12 +36,13 @@ public:
         while(l1 != NULL){
             int sum = ((l1->val) + carry);
             if(sum > 9){
-
-                vec.push_back(sum % 10);
+                current->next = new ListNode(sum % 10);
+                current = current->next;
                 carry = 1;
             }
             else{
-                vec.push_back(sum % 10);
+                current->next = new ListNode(sum % 10);
+                current = current->next;
                 carry=0;
             }
             l1 = l1->next;
@@ -48,34 +51,24 @@ public:
         while(l2 != NULL){
             int sum = ((l2->val) + carry);
             if(sum > 9){
-
-                vec.push_back(sum % 10);
+                current->next = new ListNode(sum % 10);
+                current = current->next;
                 carry = 1;
             }
             else{
-                vec.push_back(sum % 10);
+                current->next = new ListNode(sum % 10);
+                current = current->next;
                 carry=0;
             }
             l2 = l2->next;
         }
 
         if(carry == 1){
-            vec.push_back(1);
+            current->next = new ListNode(1);
+            current = current->next;
         }
 
-        ListNode* head = new ListNode(vec[0]);
-
-        ListNode* temp = head;
-
-        for(int i=1; i<vec.size(); i++){
-            ListNode* newNode = new ListNode(vec[i]);
-            temp->next = newNode;
-            temp = newNode;
-        }
-
-        temp->next == NULL;
-
-        return head;
+        return head->next;
 
     }
 };
