@@ -83,6 +83,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AKA-Vishuu/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/AKA-Vishuu/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/AKA-Vishuu/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/AKA-Vishuu/leetcode/tree/master/0050-powx-n) |
@@ -149,6 +150,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AKA-Vishuu/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/AKA-Vishuu/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/AKA-Vishuu/leetcode/tree/master/0231-power-of-two) |
 ## Backtracking
@@ -181,6 +183,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AKA-Vishuu/leetcode/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AKA-Vishuu/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AKA-Vishuu/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Heap (Priority Queue)
