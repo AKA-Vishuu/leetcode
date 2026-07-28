@@ -17,50 +17,26 @@ public:
 
         int carry = 0;
 
-        while(l1!=NULL && l2!=NULL){
-            int sum = ((l1->val) + (l2->val) + carry);
-            if(sum > 9){
-                current->next = new ListNode(sum % 10);
-                current = current->next;
-                carry = 1;
+        while(l1!=NULL || l2!=NULL){
+            int sum = carry;
+            if(l1){
+                sum = sum + l1->val;
             }
-            else{
-                current->next = new ListNode(sum % 10);
-                current = current->next;
-                carry=0;
+            if(l2){
+                sum = sum + l2->val;
             }
-            l1 = l1->next;
-            l2 = l2->next;
-        }
 
-        while(l1 != NULL){
-            int sum = ((l1->val) + carry);
-            if(sum > 9){
-                current->next = new ListNode(sum % 10);
-                current = current->next;
-                carry = 1;
-            }
-            else{
-                current->next = new ListNode(sum % 10);
-                current = current->next;
-                carry=0;
-            }
-            l1 = l1->next;
-        }
+            current->next = new ListNode(sum % 10);
+            current = current->next;
 
-        while(l2 != NULL){
-            int sum = ((l2->val) + carry);
-            if(sum > 9){
-                current->next = new ListNode(sum % 10);
-                current = current->next;
-                carry = 1;
+            carry = sum/10;
+            
+            if(l1){
+                l1 = l1->next;
             }
-            else{
-                current->next = new ListNode(sum % 10);
-                current = current->next;
-                carry=0;
+            if(l2){
+                l2 = l2->next;
             }
-            l2 = l2->next;
         }
 
         if(carry == 1){
