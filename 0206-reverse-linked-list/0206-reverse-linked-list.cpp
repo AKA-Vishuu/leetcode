@@ -15,21 +15,17 @@ public:
             return head;
         }
         
-        stack<int> s;
         ListNode* temp = head;
+        ListNode* prev = nullptr;
 
         while(temp){
-            s.push(temp->val);
-            temp = temp->next;
+            ListNode* front = temp->next;
+            temp->next = prev;
+            prev = temp;
+            temp = front;
         }
 
-        temp = head;
-        while(temp){
-            temp->val = s.top();
-            s.pop();
-            temp = temp->next;
-        }
-
+        head = prev;
         return head;
     }
 };
