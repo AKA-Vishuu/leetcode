@@ -46,6 +46,7 @@
 | [0344-reverse-string](https://github.com/AKA-Vishuu/leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/AKA-Vishuu/leetcode/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/AKA-Vishuu/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AKA-Vishuu/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AKA-Vishuu/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -191,6 +192,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/AKA-Vishuu/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AKA-Vishuu/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AKA-Vishuu/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AKA-Vishuu/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
