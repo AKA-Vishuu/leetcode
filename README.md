@@ -43,6 +43,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AKA-Vishuu/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/AKA-Vishuu/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AKA-Vishuu/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/AKA-Vishuu/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/AKA-Vishuu/leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/AKA-Vishuu/leetcode/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/AKA-Vishuu/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AKA-Vishuu/leetcode/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/AKA-Vishuu/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/AKA-Vishuu/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/AKA-Vishuu/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AKA-Vishuu/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -156,6 +158,7 @@
 | [0050-powx-n](https://github.com/AKA-Vishuu/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/AKA-Vishuu/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AKA-Vishuu/leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/AKA-Vishuu/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
 | ------- |
@@ -189,6 +192,7 @@
 | [0002-add-two-numbers](https://github.com/AKA-Vishuu/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AKA-Vishuu/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/AKA-Vishuu/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AKA-Vishuu/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AKA-Vishuu/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AKA-Vishuu/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AKA-Vishuu/leetcode/tree/master/0876-middle-of-the-linked-list) |
