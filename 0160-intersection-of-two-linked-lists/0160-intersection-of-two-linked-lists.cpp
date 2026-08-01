@@ -13,24 +13,21 @@ public:
         ListNode* b = headB;
 
         while(a!=b){
-            if(a->next == NULL){
+            a = a->next;
+            b = b->next;
+
+            if(a == b){
+                return a;
+            }
+
+            if(a == NULL){
                 a = headB;
             }
-            else{
-                a = a->next;
-            }
-
-            if(b->next == NULL){
+            if(b == NULL){
                 b = headA;
             }
-            else{
-                b = b->next;
-            }
-
-            if((a != b) && (a->next == NULL) && (b->next == NULL)){
-                return NULL;
-            }
         }
+        
         return a;
     }
 };
