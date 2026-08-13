@@ -7,18 +7,18 @@ public:
             return 0;
         }
 
-        int count=0;
-        int maxi=INT_MIN;
-        string t="";
+        int l = 0;
+        int r = 0;
+
+        int maxi = 0;
+        unordered_map<char, int> m;
+
         for(int i=0; i<n; i++){
-            int x = t.find(s[i]);
-            if(!(t.empty()) && (x<t.length())){
-                count -= (x+1);
-                t.erase(0, (x+1));
+            if(m.find(s[i]) != m.end()){
+                l = max(l, m[s[i]]+1);
             }
-            t.push_back(s[i]);
-            count++;
-            maxi=max(maxi, count);
+            maxi = max(maxi, i-l+1);
+            m[s[i]]=i;
         }
         return maxi;
     }
