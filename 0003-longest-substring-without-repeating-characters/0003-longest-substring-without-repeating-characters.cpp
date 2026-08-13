@@ -11,14 +11,16 @@ public:
         int r = 0;
 
         int maxi = 0;
-        unordered_map<char, int> m;
 
-        for(int i=0; i<n; i++){
-            if(m.find(s[i]) != m.end()){
-                l = max(l, m[s[i]]+1);
+        vector<int> hash(257, -1);
+
+        while(r<n){
+            if(hash[s[r]] != (-1)){
+                l = max(l, hash[s[r]]+1);
             }
-            maxi = max(maxi, i-l+1);
-            m[s[i]]=i;
+            maxi = max(maxi, r-l+1);
+            hash[s[r]]=r;
+            r++;
         }
         return maxi;
     }
