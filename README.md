@@ -13,6 +13,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/AKA-Vishuu/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/AKA-Vishuu/leetcode/tree/master/0260-single-number-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AKA-Vishuu/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AKA-Vishuu/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AKA-Vishuu/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1901-find-a-peak-element-ii](https://github.com/AKA-Vishuu/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AKA-Vishuu/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -189,6 +190,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AKA-Vishuu/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AKA-Vishuu/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Monotonic Stack
 |  |
@@ -224,4 +226,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AKA-Vishuu/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AKA-Vishuu/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AKA-Vishuu/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
