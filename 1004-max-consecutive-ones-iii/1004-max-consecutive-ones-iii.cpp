@@ -14,12 +14,10 @@ public:
             }
 
             if(zeroes > k){
-                while(zeroes > k){
-                    if(nums[l]==0){
-                        zeroes--;
-                    }
-                    l++;
+                if(nums[l]==0){
+                    zeroes--;
                 }
+                l++;
             }
             maxlength = max(maxlength, (r-l+1));
             r++;
