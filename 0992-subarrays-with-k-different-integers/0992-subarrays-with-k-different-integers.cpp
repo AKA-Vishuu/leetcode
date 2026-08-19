@@ -11,14 +11,18 @@ public:
         int r = 0;
 
         int count = 0;
-        unordered_map<int, int> m;
+        vector<int> arr(n+1);
+        int distinct_count = 0;
 
         while(r<n){
-            m[nums[r]]++;
-            while(m.size()>k){
-                m[nums[l]]--;
-                if(m[nums[l]] == 0){
-                    m.erase(nums[l]);
+            if(arr[nums[r]] == 0){
+                distinct_count++;
+            }
+            arr[nums[r]]++;
+            while(distinct_count > k){
+                arr[nums[l]]--;
+                if(arr[nums[l]] == 0){
+                    distinct_count--;
                 }
                 l++;
             }
