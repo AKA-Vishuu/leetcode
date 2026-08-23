@@ -10,60 +10,47 @@
  */
 class Solution {
 public:
-    ListNode* reverse(ListNode* head){
+    ListNode* find(ListNode* head, int k){
         ListNode* temp = head;
-        ListNode* prev = NULL;
-
-        while(temp){
-            ListNode* front = temp->next;
-            temp->next = prev;
-            prev = temp;
-            temp = front;
-        }
-        return prev;
-    }
-
-    ListNode* rotateRight(ListNode* head, int k) {
-        if(k==0){
-            return head;
-        }
-
-        if(head==NULL || head->next==NULL){
-            return head;
-        }
-
-        int length = 0;
-
-        ListNode* temp = head;
-        while(temp){
-            length++;
-            temp = temp->next;
-        }
-
-        k = k%length;
-        k = length-k;
-
-        temp = head;
-
         int count = 0;
-        ListNode* NextNode = NULL;
-
-        ListNode* newHead1 = NULL;
-        ListNode* newHead2 = NULL;
 
         while(temp){
             count++;
             if(count == k){
-                NextNode = temp->next;
-                temp->next = NULL;
-                newHead1 = reverse(head);
-                newHead2 = reverse(NextNode);
-                head->next = newHead2;
-                break;
+                return temp;
+            }
+            temp = temp->next;
+        }
+        return NULL;
+    }
+    ListNode* rotateRight(ListNode* head, int k) {
+        if(head == NULL){
+            return NULL;
+        }
+        int len = 0;
+
+        ListNode* temp = head;
+        ListNode* tail = NULL;
+
+        while(temp){
+            len++;
+            if(temp->next == NULL){
+                tail = temp;
             }
             temp = temp->next;
         }
 
-        return reverse(newHead1);
+        if(k%len == 0){
+            return head;
+        }
+
+        k = k%len;
+
+        ListNode* req_idx= find(head, len-k); // req_idx = len-k
+        ListNode* newHead = req_idx->next;
+        req_idx->next = NULL;
+        tail->next = head;
+
+        return newHead;
     }
 };
