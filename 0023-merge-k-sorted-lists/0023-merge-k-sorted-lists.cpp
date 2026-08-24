@@ -10,47 +10,40 @@
  */
 class Solution {
 public:
-    ListNode* merge(ListNode* head1, ListNode* head2){
+    struct compare{
+        bool operator()(ListNode* a, ListNode* b){
+            return a->val > b->val;
+        } 
+    };
+
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        int n = lists.size();
+
+        if(n==0){
+            return NULL;
+        }
+
         ListNode* dummyNode = new ListNode(-1);
         ListNode* temp = dummyNode;
 
-        ListNode* t1 = head1;
-        ListNode* t2 = head2;
+        priority_queue<ListNode*, vector<ListNode*>, compare> pq;
 
-        while(t1 && t2){
-            if(t1->val <= t2->val){
-                temp->next = t1;
-                temp = t1;
-                t1 = t1->next;
-            }
-            else{
-                temp->next = t2;
-                temp = t2;
-                t2 = t2->next;
+        for(int i=0; i<n; i++){
+            if(lists[i] != NULL){
+                pq.push(lists[i]);
             }
         }
 
-        if(t1 != NULL){
-            temp->next = t1;
-        }
-
-        if(t2 != NULL){
-            temp->next = t2;
+        while(!(pq.empty())){
+            ListNode* store = pq.top();
+            temp->next = store;
+            temp = temp->next;
+            pq.pop();
+            if(store->next != NULL){
+                pq.push(store->next);
+            }
         }
 
         return dummyNode->next;
-    }
-
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if(lists.empty()){
-            return NULL;
-        }
-        ListNode* head = lists[0];
-
-        for(int i=1; i<lists.size(); i++){
-            head = merge(head, lists[i]);
-        }
-
-        return head;
     }
 };
