@@ -43,6 +43,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AKA-Vishuu/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AKA-Vishuu/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
 |  |
@@ -229,6 +230,7 @@
 | [0002-add-two-numbers](https://github.com/AKA-Vishuu/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AKA-Vishuu/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/AKA-Vishuu/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/AKA-Vishuu/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/AKA-Vishuu/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/AKA-Vishuu/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/AKA-Vishuu/leetcode/tree/master/0141-linked-list-cycle) |
@@ -243,6 +245,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AKA-Vishuu/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AKA-Vishuu/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Design
 |  |
@@ -268,4 +271,12 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/AKA-Vishuu/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AKA-Vishuu/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AKA-Vishuu/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AKA-Vishuu/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AKA-Vishuu/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
