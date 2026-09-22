@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/AKA-Vishuu/leetcode/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/AKA-Vishuu/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/AKA-Vishuu/leetcode/tree/master/0078-subsets) |
+| [0119-pascals-triangle-ii](https://github.com/AKA-Vishuu/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/AKA-Vishuu/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AKA-Vishuu/leetcode/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/AKA-Vishuu/leetcode/tree/master/0204-count-primes) |
@@ -284,4 +285,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AKA-Vishuu/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/AKA-Vishuu/leetcode/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
