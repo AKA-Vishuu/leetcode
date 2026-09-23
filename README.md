@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AKA-Vishuu/leetcode/tree/master/0014-longest-common-prefix) |
+| [0056-merge-intervals](https://github.com/AKA-Vishuu/leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/AKA-Vishuu/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/AKA-Vishuu/leetcode/tree/master/0078-subsets) |
 | [0119-pascals-triangle-ii](https://github.com/AKA-Vishuu/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -156,6 +157,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/AKA-Vishuu/leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/AKA-Vishuu/leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/AKA-Vishuu/leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AKA-Vishuu/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -289,4 +291,8 @@
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/AKA-Vishuu/leetcode/tree/master/0119-pascals-triangle-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/AKA-Vishuu/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
