@@ -14,6 +14,7 @@
 | [0204-count-primes](https://github.com/AKA-Vishuu/leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AKA-Vishuu/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/AKA-Vishuu/leetcode/tree/master/0260-single-number-iii) |
+| [0496-next-greater-element-i](https://github.com/AKA-Vishuu/leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AKA-Vishuu/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/AKA-Vishuu/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AKA-Vishuu/leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -98,6 +99,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/AKA-Vishuu/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/AKA-Vishuu/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/AKA-Vishuu/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/AKA-Vishuu/leetcode/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/AKA-Vishuu/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AKA-Vishuu/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AKA-Vishuu/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -148,6 +150,7 @@
 | [0205-isomorphic-strings](https://github.com/AKA-Vishuu/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AKA-Vishuu/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/AKA-Vishuu/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/AKA-Vishuu/leetcode/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/AKA-Vishuu/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AKA-Vishuu/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AKA-Vishuu/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -229,6 +232,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/AKA-Vishuu/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/AKA-Vishuu/leetcode/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AKA-Vishuu/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Linked List
 |  |
