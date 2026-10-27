@@ -16,9 +16,24 @@ public:
             return;
         }
 
-        ans.push_back(root->val);
-        helper(root->left, ans);
-        helper(root->right, ans);
+        stack<TreeNode*> st;
+        st.push(root);
+
+        while((!st.empty())){
+            TreeNode* temp = st.top();
+            st.pop();
+
+            if(temp->right){
+                st.push(temp->right);
+            }
+
+            if(temp->left){
+                st.push(temp->left);
+            }
+
+            ans.push_back(temp->val);
+        }
+
     }
     vector<int> preorderTraversal(TreeNode* root) {
         vector<int> ans;
